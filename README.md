@@ -2,38 +2,55 @@
 
 This is the source code for my personal portfolio website built using React and Vite. It showcases my skills in full-stack web development, C/C++ programming, and data structures & algorithms.
 
-🔗 [Live Site](https://nooraisha29-portflio.netlify.app/)  
-📄 [Download Resume](https://drive.google.com/file/d/18GvQfeCbzDAqVvsx2wT_XpBR4sCZWmcd/view?usp=drivesdk)
+ [Live Site](https://nooraisha29-portflio.netlify.app/)  
+ [Download Resume](https://drive.google.com/file/d/18GvQfeCbzDAqVvsx2wT_XpBR4sCZWmcd/view?usp=drivesdk)
 
-## 🚀 Tech Stack
+##  Tech Stack
 - React + Vite
 - HTML, CSS, JavaScript
 - Responsive design with custom media queries
 - Deployment via Netlify
 
-## 📁 Folder Structure
-Personal-Portfolio/
-├── public/                  # Static assets and index.html
-├── src/                     # Main application source code
-│   ├── assets/              # Images and icons used across the site
-│   ├── Components/          # Reusable React components (Nav, Home, About, Projects, Contact)
-│   ├── App.jsx              # Root component
-│   └── main.jsx             # Entry point for React DOM rendering
-├── .gitignore               # Git ignore rules
-├── package.json             # Project metadata and dependencies
-├── vite.config.js           # Vite build configuration
-├── README.md                # Project documentation
-└── index.html               # Main HTML template
+### Sections Included
+- Home: Introduction with animated typewriter effect and resume download
+- About: Personal info, education, and skill highlights
+- Projects: Visual showcase of key projects including:
+- Wedding Invitation Website
+- Agentic-AI
+- Model Rocket
+- Regression Model
+- Contact: Responsive form with styled input fields and glowing iconography
 
-## 🛠️ Setup
+## Responsive Design
+The site is fully responsive across devices. Mobile-specific adjustments include:
+- Hamburger menu with blur overlay
+- Stacked layout for content sections
+- Scaled fonts and centered cards
+
+##  Folder Structure
+```
+Personal-Portfolio/
+├── public/                  
+├── src/                    
+│   ├── assets/              
+│   ├── Components/         
+│   ├── App.jsx             
+│   └── main.jsx            
+├── .gitignore              
+├── package.json             
+├── vite.config.js          
+├── README.md                
+└── index.html
+```           
+##  Setup
 ```bash
 npm install
 npm run dev
-
+```
 
 ---
 
-### 🧩 How to apply this fix
+###  How to apply this fix
 
 1. Open `README.md` in VS Code.
 2. Delete everything between `<<<<<<< HEAD` and `>>>>>>> ...`.
@@ -42,7 +59,7 @@ npm run dev
 
 ---
 
-### ✅ Final Git Commands
+###  Final Git Commands
 
 ```bash
 git add README.md
