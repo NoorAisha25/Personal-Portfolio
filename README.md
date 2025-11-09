@@ -1,16 +1,51 @@
-# React + Vite
+# Personal-Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the source code for my personal portfolio website built using React and Vite. It showcases my skills in full-stack web development, C/C++ programming, and data structures & algorithms.
 
-Currently, two official plugins are available:
+🔗 [Live Site](https://nooraisha29-portflio.netlify.app/)  
+📄 [Download Resume](https://drive.google.com/file/d/18GvQfeCbzDAqVvsx2wT_XpBR4sCZWmcd/view?usp=drivesdk)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- React + Vite
+- HTML, CSS, JavaScript
+- Responsive design with custom media queries
+- Deployment via Netlify
 
-## React Compiler
+## 📁 Folder Structure
+Personal-Portfolio/
+├── public/                  # Static assets and index.html
+├── src/                     # Main application source code
+│   ├── assets/              # Images and icons used across the site
+│   ├── Components/          # Reusable React components (Nav, Home, About, Projects, Contact)
+│   ├── App.jsx              # Root component
+│   └── main.jsx             # Entry point for React DOM rendering
+├── .gitignore               # Git ignore rules
+├── package.json             # Project metadata and dependencies
+├── vite.config.js           # Vite build configuration
+├── README.md                # Project documentation
+└── index.html               # Main HTML template
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Setup
+```bash
+npm install
+npm run dev
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🧩 How to apply this fix
+
+1. Open `README.md` in VS Code.
+2. Delete everything between `<<<<<<< HEAD` and `>>>>>>> ...`.
+3. Paste the clean version above.
+4. Save the file.
+
+---
+
+### ✅ Final Git Commands
+
+```bash
+git add README.md
+git commit -m "Resolved README.md conflict and updated content"
+git push -u origin main
+
