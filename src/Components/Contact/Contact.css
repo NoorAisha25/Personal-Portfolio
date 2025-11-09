@@ -1,0 +1,100 @@
+/* Contact section layout */
+#contact {
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-wrap: wrap; 
+  box-sizing: border-box;
+}
+
+.leftcontact {
+  width: 50%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.leftcontact img {
+  width: 500px;
+  filter: drop-shadow(2px 2px 15px rgb(200, 151, 159));
+  display: block;
+}
+
+.righttcontact {
+  margin-top: 100px;;
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  width: 80vh;
+  height:70vh;
+  background-color: rgb(8, 12, 14);
+  box-shadow: 2px 2px 15px black, 2px 2px 20px black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  border-radius: 12px;
+  margin-top: 100px;
+}
+
+form:hover{
+    box-shadow: 2px 2px 15px pink, 2px 2px 20px pink;
+}
+
+form input{
+    width: 80%;
+    height: 50px;
+    border: 2px solid pink;
+    border-radius: 20px;
+    padding: 20px;
+    outline: null;
+}
+#textarea{
+    width: 80%;
+    height: 200px;
+    border: 2px solid pink;
+    border-radius: 20px;
+    padding: 20px;
+    outline: null;
+}
+#btn{
+    width: 90px;
+    height:50px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    font-size: 15px;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+#btn:hover{
+    background: transparent;
+    color:pink;
+}
+@media (max-width:750px){
+    #contact{
+        flex-direction: column;
+    }
+    .leftcontact{
+        width: 100%;
+        padding-left: 160px;
+    }
+    .righttcontact{
+        width: 100%;
+        padding: 50px;
+    }
+}
+
+
+
+
