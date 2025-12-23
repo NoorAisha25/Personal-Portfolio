@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Personal-Portfolio&fontSize=60&animation=blink" alt="Personal-Portfolio"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=100&section=header&text=Personal-Portfolio&fontSize=60&animation=blink" alt="Personal-Portfolio"/>
 </p>
 
 <p align="center">
