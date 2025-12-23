@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:fc00ff,100:00dbde&height=200&section=header&text=Intizamiyah%20Portfolio&fontSize=50&animation=twinkle" alt="Intizamiyah Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Personal-Portfolio&fontSize=60&animation=blink" alt="Personal-Portfolio"/>
 </p>
 
 <p align="center">
