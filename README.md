@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://novy-grafyniq.vercel.app/" target="_blank"> Live Demo</a> 
+  <a href="https://nooraisha29-portflio.netlify.app/" target="_blank"> Live Demo</a> 
 </p>
 
 <p align="center">
