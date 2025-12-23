@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00dbde&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;C%2FC%2B%2B+Programmer;DSA+Enthusiast;React+%7C+Node+%7C+MongoDB" alt="Typing SVG"/>
 </p>
 
+<p align="center">
 This is the source code for my personal portfolio website built using React and Vite. It showcases my skills in full-stack web development, C/C++ programming, and data structures & algorithms.
+</p>
 
 ##  Tech Stack
 - React + Vite
