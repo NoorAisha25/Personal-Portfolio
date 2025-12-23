@@ -1,4 +1,6 @@
-# Personal-Portfolio
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=✨%20Personal%20Portfolio%20✨&fontSize=50&animation=twinkle" alt="Portfolio Header"/>
+</p>
 
 This is the source code for my personal portfolio website built using React and Vite. It showcases my skills in full-stack web development, C/C++ programming, and data structures & algorithms.
 
