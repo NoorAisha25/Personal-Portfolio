@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
+  <a href="https://novy-grafyniq.vercel.app/" target="_blank"> Live Demo</a> 
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00dbde&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;C%2FC%2B%2B+Programmer;DSA+Enthusiast;React+%7C+Node+%7C+MongoDB" alt="Typing SVG"/>
 </p>
 
-
 This is the source code for my personal portfolio website built using React and Vite. It showcases my skills in full-stack web development, C/C++ programming, and data structures & algorithms.
-
- [Live Site](https://nooraisha29-portflio.netlify.app/)  
- [Download Resume](https://drive.google.com/file/d/18GvQfeCbzDAqVvsx2wT_XpBR4sCZWmcd/view?usp=drivesdk)
 
 ##  Tech Stack
 - React + Vite
